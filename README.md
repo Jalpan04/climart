@@ -1,6 +1,6 @@
 # Climart
 
-![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/climart) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/climart) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org) [![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=flat&logo=rust&logoColor=white)](https://ratatui.rs) [![Crossterm](https://img.shields.io/badge/Crossterm-333333?style=flat&logo=rust&logoColor=white)](https://github.com/crossterm-rs/crossterm) [![Tokio](https://img.shields.io/badge/Tokio-E0721B?style=flat&logo=tokio&logoColor=white)](https://tokio.rs) [![Serde](https://img.shields.io/badge/Serde-DF3600?style=flat&logo=rust&logoColor=white)](https://serde.rs) [![Reqwest](https://img.shields.io/badge/Reqwest-4F46E5?style=flat&logo=rust&logoColor=white)](https://github.com/seanmonstar/reqwest) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/climart) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![Ratatui](https://img.shields.io/badge/Ratatui-Terminal%20UI-blue?style=for-the-badge)](#)
