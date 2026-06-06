@@ -1,5 +1,7 @@
 # Climart
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/climart) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/climart) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![Ratatui](https://img.shields.io/badge/Ratatui-Terminal%20UI-blue?style=for-the-badge)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](#)
